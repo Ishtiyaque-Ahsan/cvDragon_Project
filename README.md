@@ -1,12 +1,15 @@
-# React + Vite
+About:
+This Project has 3 pages:
+Home page( '/' root directory): it shows the User name, photo, score, app logo, tasks, news, events, updates, birthdays, quicklinks.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+MenuBar Page('/menulist' directory): it shows the menu options as given in figma design 'Frame 33908'; 
+you will be directed to it on clicking menubar icon in top-left corner of home page 
 
-Currently, two official plugins are available:
+Profile Page('/profile' directory): it shows the profile of user as given in figma design 'Profile Page'; 
+you will be directed to it on clicking profile icon in top-right corner of home page
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Intruction to run code:
+go to Project directory
+then, in terminal:
+>> npm install
+>> npm run dev
