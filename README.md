@@ -10,7 +10,6 @@ you will be directed to it on clicking menubar icon in top-left corner of home p
 
 
 Profile Page('/profile' directory): it shows the profile of user as given in figma design 'Profile Page'; 
-
 you will be directed to it on clicking profile icon in top-right corner of home page
 
 Intruction to run code:
