@@ -6,7 +6,6 @@ Home page( '/' root directory): it shows the User name, photo, score, app logo, 
 
 
 MenuBar Page('/menulist' directory): it shows the menu options as given in figma design 'Frame 33908'; 
-
 you will be directed to it on clicking menubar icon in top-left corner of home page 
 
 
